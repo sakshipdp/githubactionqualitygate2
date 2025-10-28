@@ -6,7 +6,7 @@ def test_add():  #compare actual o/p and expected o/p
     assert add(2, 3) == 5
 
 def test_sub():
-    assert sub(3, 1) == 1
+    assert sub(3, 1) == 2
 
 def test_mul():
     assert mul(4*2) == 8
