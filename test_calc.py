@@ -9,7 +9,7 @@ def test_sub():
     assert sub(3, 1) == 2
 
 def test_mul():
-    assert mul(4*2) == 8
+    assert mul(4, 2) == 8
 
 def test_div():
     assert div(4, 2) == 2
